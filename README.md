@@ -27,7 +27,7 @@
 <img height=80px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=80px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
 </td>
 
