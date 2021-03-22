@@ -86,4 +86,6 @@
 <!-- https://github.com/Rahulm0106/github-readme-stats -->
   <a href="https://github.com/Rahulm0106/github-readme-stats"><img alt="Rahulm0106's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rahulm0106&show_icons=true&count_private=true&hide=" /></a>
 
+### Follow me
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-mandviya/)](https://www.linkedin.com/in/rahul-mandviya-b69b46199/)[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rahulmandviya@gmail.com)](mailto:rahulmandviya@gmail.com)
