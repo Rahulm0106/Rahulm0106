@@ -23,30 +23,25 @@
 <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </td>
 
-<td align="center" width="50%">
-<img height=80px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
-</td>
-
 </tr>
 
 <tr>
+
+<td align="center" width="50%">
+<img height=80px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
+</td>
  
 <td align="center" width="50%">
 <img height=80px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
-<img height=80px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
-</td>
+</tr>
 
+<tr>
 
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
