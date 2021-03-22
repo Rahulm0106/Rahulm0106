@@ -46,67 +46,37 @@
 
 </tr>
 
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
-
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
-</td>
-
-</tr>
-
 <tr>
  
 <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<tr>
- 
-<td align="center" width="25%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<td align="center" width="25%">
-<img height=80px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
-</td>
- 
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
- 
-</tr>
-
-<tr>
- 
-<td align="center" width="100%">
 <img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
 </td>
 
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+</td>
+
 </tr>
 
 <tr>
  
- 
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+</td>
+
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+</td>
+
+</tr> 
 
 </tbody>
 </table>
