@@ -17,7 +17,7 @@
 <tr>
  
 <td align="center" width="33%">
-<img height=60px alt="Python" src="="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> 
+<img height=60px alt="Python" src="="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
 </td>
 
 <td align="center" width="33%">
