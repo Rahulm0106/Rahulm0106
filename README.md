@@ -15,15 +15,15 @@
 <table>
 <tbody>
 <tr>
- 
-<td align="center" width="33%">
-<img height=60px src="="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
-</td>
 
 <td align="center" width="33%">
 <img height=60px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </td>
 
+<td align="center" width="33%">
+<img height=60px src="="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
+</td>
+                                                                                                         
 <td align="center" width="33%">
 <img height=80px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
 </td>
