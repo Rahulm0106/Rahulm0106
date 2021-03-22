@@ -88,4 +88,4 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-mandviya/)](https://www.linkedin.com/in/rahul-mandviya-b69b46199/)     [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rahulmandviya@gmail.com)](mailto:rahulmandviya@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-mandviya/)](https://www.linkedin.com/in/rahul-mandviya-b69b46199/)&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rahulmandviya@gmail.com)](mailto:rahulmandviya@gmail.com)
