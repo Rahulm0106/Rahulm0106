@@ -84,8 +84,6 @@
 ## 📈 Github Stats
 
 <!-- https://github.com/Rahulm0106/github-readme-stats -->
-<details>
-  <br/>
   <a href="https://github.com/Rahulm0106/github-readme-stats"><img alt="Rahulm0106's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rahulm0106&show_icons=true&count_private=true&hide=" /></a>
-</details>
+
 
