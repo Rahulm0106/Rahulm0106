@@ -5,10 +5,8 @@
 
 * 💻 I'm a Tech Enthusiast
 * 💻 I'm a self-taught Data Scientist
-* 📱 I make apps using fluter
-* 🎓 I'm a Computer Science student (graduating in 2024)
-* 🎉 I'm Finance and Event Head at AI Club VIT-Bhopal
-* 🌐 You can see some of my projects on [my portfolio](https://rahulmandviya.technology/)
+* 💻 Work Experience of 1.5 years in Data Industry
+* 🎓 I'm a Masters student (graduating in 2024)
 
 ## My Skills :computer:
 
