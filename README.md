@@ -1,91 +1,128 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h3 align="center">Hey there, I'm <a href="https://rahulmandviya.technology/">Rahul</a> - aka Rahulm0106 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h2 align="center">Hi, I’m Rahul Sanjay Mandviya 👋</h2>
+<p align="center">
+M.S. Computer Science @ Illinois Institute of Technology (GPA: 4.0)<br/>
+Data Engineering • Applied AI • GenAI Systems
+</p>
 
-## 📖 About me
+---
 
-* 💻 I'm a Tech Enthusiast
-* 💻 I'm a self-taught Data Scientist
-* 💻 Work Experience of 1.5 years in Data Industry
-* 🎓 I'm a Masters student (graduating in 2024)
+## 📌 About Me
 
-## My Skills :computer:
+I’m a graduate Computer Science student at **Illinois Institute of Technology**, specializing in **Data Engineering and Applied AI**.
 
-<table>
-<tbody>
-<tr>
+Previously, I worked in the **CTO’s Office** at a global AI & fintech organization, where I **reported directly to the CTO** and collaborated with engineering, product, and leadership teams to deliver **scalable data platforms and GenAI-powered automation**.
 
-<td align="center" width="33%">
-<img height=60px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
+I enjoy operating at the intersection of **data infrastructure, applied machine learning, and executive-level problem solving**—translating strategic vision into reliable, production-grade systems.
 
-<td align="center" width="33%">
-<img height=60px src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
-</td>
-                                                                                                         
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
-</td>
+I am actively seeking **Data Engineer** and **Applied AI / ML** opportunities.
 
-</tr>
+---
 
-<tr>
- 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
+## 🎓 Education
 
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-</td>
+**Illinois Institute of Technology, Chicago, IL**  
+**M.S. Computer Science** — *GPA: 4.00*  
+📅 Expected Graduation: **May 2027**
 
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
+**VIT Bhopal University, India**  
+Integrated **B.Tech + M.Tech in Artificial Intelligence** — *GPA: 3.66*
 
-</tr>
+---
 
-<tr>
- 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
-</td>
+## 🧠 Technical Skills
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
+**Programming & Core**
+- Python, SQL, R
 
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
+**Data Engineering**
+- ETL Pipelines, Data Lakes  
+- Airflow, dbt  
+- Postgres, BigQuery  
+- CI/CD, GitHub Actions
 
-</tr>
+**Applied AI / GenAI**
+- LLMs, Prompt Engineering  
+- OpenAI API, Hugging Face  
+- AI-driven automation workflows
 
-<tr>
- 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
+**Cloud & Systems**
+- Docker, Cloud Monitoring, Grafana  
+- Backend REST APIs
 
-<td align="center" width="33%">
-<img height=60px alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-</td>
+**Analytics & Visualization**
+- Looker Studio, Tableau
 
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
+---
 
-</tr> 
+## 💼 Industry Experience — CTO Office
 
-</tbody>
-</table>
+**Vue.ai (M2P Fintech)**  
+*CTO Office | Data Engineering & Applied AI*
 
-## 📈 Github Stats
+- Reported **directly to the CTO**, supporting high-impact engineering and automation initiatives
+- Designed **GenAI-powered documentation and deployment workflows**, reducing manual effort by **90%**
+- Built and optimized **ETL pipelines**, improving data freshness and throughput
+- Engineered **production-grade Python SDKs** adopted by enterprise clients
+- Implemented CI/CD pipelines and cloud monitoring, lowering infrastructure costs by **20%**
+- Contributed to strategic initiatives around **platform scalability, developer productivity, and AI adoption**
 
+---
 
-<!-- https://github.com/Rahulm0106/github-readme-stats -->
-  <a href="https://github-readme-stats.vercel.app/api?username=Rahulm0106&show_icons=true&count_private=true&hide="><img alt="Rahulm0106's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rahulm0106&show_icons=true&count_private=true&hide=" /></a>
+## 🚀 Featured Projects
 
+### 🏙️ Urban Mobility Insights — Data Engineering
+- Processed **500K+ NYC taxi trips** using a cloud-based ETL pipeline
+- Built analytics-ready datasets with **GCP, Airflow, dbt, BigQuery**
+- Delivered dashboards highlighting **25% daily demand variation**
 
-### Follow me
+🔗 https://github.com/Rahulm0106/nyc_taxi_dbt_zoomcamp
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-mandviya/)](https://www.linkedin.com/in/rahul-mandviya-b69b46199/)&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rahulmandviya@gmail.com)](mailto:rahulmandviya@gmail.com)
+---
+
+### 🧬 SkCapo — AI-Powered Skin Cancer Detection
+- Built a CNN/DenseNet-based system achieving **~92% melanoma detection accuracy**
+- Reduced manual screening effort by **80%**
+- End-to-end ML pipeline with deployed web interface
+
+🔗 https://github.com/Rahulm0106/skcapo
+
+---
+
+## 📚 Research & Publications
+
+I am a **published researcher** with peer-reviewed work in IEEE and IET venues, focusing on AI systems, healthcare informatics, and IoT-enabled intelligence.
+
+- **IoT-based Smart Beekeeping Monitoring System**  
+  *IEEE International Conference on Computing, Communication and Technologies (ICCCT)*  
+  🔗 https://ieeexplore.ieee.org/document/9711901
+
+- **IoT to Prevent Future Pandemics**  
+  *IEEE International Conference on Advanced Computing and Communication Systems (ICACCS)*  
+  🔗 https://ieeexplore.ieee.org/document/9785347
+
+- **Introduction to Healthcare Informatics**  
+  *IET Digital Library — Book Chapter*  
+  🔗 https://digital-library.theiet.org/doi/10.1049/pbhe041e_ch1
+
+---
+
+## 🏆 Leadership & Achievements
+
+- **Finalist — Smart India Hackathon** (Top 5 of 2500+ teams)  
+- Secured **government funding** for AI + IoT monitoring solution
+- **Co-founder & President**, AI Club (VIT Bhopal University)  
+  - Led 15+ workshops and 2 international conclaves  
+  - Launched a student-led AI research magazine
+
+---
+
+## 📄 Resume
+
+📎 Available via LinkedIn or on request
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/r0106/
+- 📧 Email: rahulsanjay.mandviya@gmail.com
